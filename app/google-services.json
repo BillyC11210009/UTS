@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "623087989074",
     "project_id": "fir-test-f5f9f",
-    "storage_bucket": "fir-test-f5f9f.appspot.com"
+    "storage_bucket": "fir-test-f5f9f.firebasestorage.app"
   },
   "client": [
     {
@@ -12,7 +12,12 @@
           "package_name": "com.example.uts"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "623087989074-mcspdl8mj5sidr3dk87vh46kaub9lp0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBtaQ3TUYL6293HwE3Ef5Yhitn8oRh7cng"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623087989074-mcspdl8mj5sidr3dk87vh46kaub9lp0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

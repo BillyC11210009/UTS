@@ -1,6 +1,8 @@
 package com.example.uts
 
 data class Note(
-    val title: String,
-    val content: String
+    val id: String = "",
+    val title: String = "",
+    val content: String = "",
+    val timestamp: Long = 0L
 )

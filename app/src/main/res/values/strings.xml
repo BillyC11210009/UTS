@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UTS</string>
+    <string name="default_web_client_id">"623087989074-mcspdl8mj5sidr3dk87vh46kaub9lp0e.apps.googleusercontent.com"</string>
 </resources>
